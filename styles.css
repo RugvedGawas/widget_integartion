@@ -609,6 +609,14 @@ p {
     .navbar-container input[type="checkbox"]:checked ~ .logo{
         display: none;
     }
+
+     .logo{
+        position: absolute;
+        top: 5px;
+        right: 15px;
+        font-size: 2.5rem;
+    }
+    
 }
 
 .callButton{
